@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="428a4d95-6d63-416f-abf1-5ad53bba714a" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../../2020/JS/static/css/style.css" afterDir="false" />
@@ -11,7 +34,7 @@
       <change afterPath="$PROJECT_DIR$/../../Data_Analyst/cs01/add_content.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Data_Analyst/cs02/js/example.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Data_Analyst/cs03/js/window-object.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../JavaScript_books/js/add-content.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../JavaScript_books/js/basic-function.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../JavaScript_books/js/coders_test.js" afterDir="false" />
@@ -19,14 +42,28 @@
       <change afterPath="$PROJECT_DIR$/../../python_testy/10.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../python_testy/diff_unitTest.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../python_testy/phoneAndEmail.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tweetme/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/tweetme/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tweetme/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/tweetme/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JupyterTrust" id="e79703be-40b9-4f71-ba08-49a2a3d556ee" />
   <component name="ProjectId" id="1ic6EgUTQ8kzRwBF6kCJrQ6ZX74" />
@@ -36,9 +73,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="tweetme" type="Python.DjangoServer" factoryName="Django server">
@@ -73,11 +112,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602194423797</updated>
-      <workItem from="1602194425307" duration="655000" />
+      <workItem from="1602194425307" duration="1743000" />
+      <workItem from="1602196475933" duration="1211000" />
+      <workItem from="1602536415995" duration="4762000" />
+      <workItem from="1602624603605" duration="3871000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="323" y="-1055" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602536430515">
+      <screen x="-557" y="-1440" width="2560" height="1440" />
+    </state>
+    <state x="323" y="-1055" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/-557.-1440.2560.1440@-557.-1440.2560.1440" timestamp="1602536430515" />
+    <state x="-476" y="-1064" key="SettingsEditor" timestamp="1602196687106">
+      <screen x="-557" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="-476" y="-1081" key="SettingsEditor/0.0.1440.900/-557.-1440.2560.1440@-557.-1440.2560.1440" timestamp="1602196172741" />
+    <state x="-476" y="-1064" key="SettingsEditor/0.23.1440.814/-557.-1417.2560.1417@-557.-1417.2560.1417" timestamp="1602196687106" />
   </component>
 </project>
